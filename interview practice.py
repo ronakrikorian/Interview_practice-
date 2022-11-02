@@ -30,28 +30,3 @@ while bid_yn != "0":
     elif bid < party_size*100:
         print ("We appologize but a larger bid is needed to decrease your wait time.\n"
                "Would you like to place another bid?")
-        
-        
-        
-    
-    
-
-
-    
-    
-
-
-    
-    
-    
-
-
-
-    
-            
-
-
-    
-
-    
-    
